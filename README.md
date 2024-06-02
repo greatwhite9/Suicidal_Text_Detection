@@ -16,7 +16,7 @@ This project aims to detect suicidal ideation in text data, specifically from Tw
 ## Installation
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/suicidal-text-detection.git
+    git clone https://github.com/greatwhite9/suicidal-text-detection.git
     ```
 2. Navigate to the project directory:
     ```bash
