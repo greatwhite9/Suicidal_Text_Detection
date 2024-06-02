@@ -49,6 +49,3 @@ The model's performance metrics, such as accuracy, precision, recall, and F1 sco
 
 ## Contributing
 Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
-
-## License
-This project is licensed under the MIT License. See the LICENSE file for details.
