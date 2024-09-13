@@ -19,6 +19,10 @@ This project aims to detect suicidal ideation in text data using deep learning t
     cd suicidal-text-detection
     ```
 
+## Dataset
+1. Suicide_Ideation_Dataset(Twitter-based): Given in project structure
+2. Suicide_Detection: [Download from here](https://www.kaggle.com/datasets/nikhileswarkomati/suicide-watch)
+
 ## Usage
 1. Open the Jupyter notebook:
     ```bash
