@@ -5,6 +5,7 @@ This project aims to detect suicidal ideation in text data using deep learning t
 
 ## Table of Contents
 - [Installation](#installation)
+- [Dataset](#dataset)
 - [Usage](#usage)
 - [Model](#model)
 - [Contributing](#contributing)
