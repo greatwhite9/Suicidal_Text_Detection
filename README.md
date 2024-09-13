@@ -1,7 +1,7 @@
 # Suicidal Text Detection
 
 ## Description
-This project aims to detect suicidal ideation in text data, specifically from Twitter posts, using deep learning techniques. The dataset is preprocessed and then used to train a neural network model to classify text as either indicative of potential suicide or not.
+This project aims to detect suicidal ideation in text data using deep learning techniques. The dataset is preprocessed and then used to train a neural network model to classify text as either indicative of potential suicide or not.
 
 ## Table of Contents
 - [Installation](#installation)
